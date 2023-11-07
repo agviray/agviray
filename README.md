@@ -2,7 +2,7 @@
 
 # Hello! 👋
 
-- I'm Allan Viray, a curious and dedicated Front-end Developer with useful skills to share.
+- I'm Allan Viray, a curious and dedicated Full Stack Developer with useful skills to share.
 - 🌱 I’m currently learning more about **`Microsoft Azure, C# (C-Sharp), Java, SQL, and PostgreSQL`**.
 - 💬 Ask me about anything at all--code or non-code related! I'm an open book with most things. 😎 
 <br></br>
