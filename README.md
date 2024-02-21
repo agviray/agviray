@@ -1,4 +1,4 @@
-<img src="github-profile-readme-banner.png" alt="Profile banner" />
+<img src="github-banner.png" alt="Profile banner" />
 
 # Hello! 👋
 
