@@ -3,7 +3,7 @@
 # Hello! 👋
 
 - I'm Allan Viray, a curious and dedicated Full Stack Developer with useful skills to share.
-- 🌱 I’m currently learning more about **`Microsoft Azure, C# (C-Sharp), Java, SQL, and PostgreSQL`**.
+- 🌱 **As of March 2024, I've been taking part in the 2024 Adobe Digital Academy - Software Engineering Immersive program!** I'm grateful to have been accepted into this year's SWE cohort, and I'm excited to build applications using the knowlege that I will gain throughout this experience.
 - 💬 Ask me about anything at all--code or non-code related! I'm an open book with most things. 😎 
 <br></br>
 
@@ -20,8 +20,8 @@
 <br></br>
 
 ## Learning More About
-| <img src="https://user-images.githubusercontent.com/25181517/183911544-95ad6ba7-09bf-4040-ac44-0adafedb9616.png" alt="Microsoft Azure" width=40 ><br/><sub>**Azure**</sub>| <img src="https://user-images.githubusercontent.com/25181517/121405384-444d7300-c95d-11eb-959f-913020d3bf90.png" alt="C# - C-Sharp" width=40 ><br/><sub>**C#**</sub> |<img src="https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png" alt="Java" width=40 ><br/><sub>**Java**</sub>| <img src="https://cdn-icons-png.flaticon.com/512/7506/7506880.png" alt="SQL" width=40><br/><sub>**SQL**</sub> | <img src="https://user-images.githubusercontent.com/25181517/117208740-bfb78400-adf5-11eb-97bb-09072b6bedfc.png" alt="PostgreSQL" width=40><br/><sub>**PostgreSQL**</sub>|
-|:-:|:-:|:-:|:-:|:-:|
+| <img src="https://cdn-icons-png.flaticon.com/512/7506/7506880.png" alt="SQL" width=40><br/><sub>**SQL**</sub> | <img src="https://user-images.githubusercontent.com/25181517/117208740-bfb78400-adf5-11eb-97bb-09072b6bedfc.png" alt="PostgreSQL" width=40><br/><sub>**PostgreSQL**</sub> |<img src="https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png" alt="Java" width=40 ><br/><sub>**Java**</sub>|
+|:-:|:-:|:-:|
 
 
 <br><br>
