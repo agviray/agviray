@@ -20,9 +20,8 @@
 <br></br>
 
 ## Learning More About
-| <img src="https://cdn-icons-png.flaticon.com/512/7506/7506880.png" alt="SQL" width=40><br/><sub>**SQL**</sub> | <img src="https://user-images.githubusercontent.com/25181517/117208740-bfb78400-adf5-11eb-97bb-09072b6bedfc.png" alt="PostgreSQL" width=40><br/><sub>**PostgreSQL**</sub> |
-|:-:|:-:|
-
+| <img src="https://user-images.githubusercontent.com/25181517/121405384-444d7300-c95d-11eb-959f-913020d3bf90.png" alt="C#" width=40 ><br/><sub>**C#**</sub> | <img src="https://user-images.githubusercontent.com/25181517/183911544-95ad6ba7-09bf-4040-ac44-0adafedb9616.png" alt="Microsoft Azure" width=40 ><br/><sub>**Azure**</sub> | <img src="https://cdn-icons-png.flaticon.com/512/7506/7506880.png" alt="SQL" width=40><br/><sub>**SQL**</sub> | <img src="https://user-images.githubusercontent.com/25181517/117208740-bfb78400-adf5-11eb-97bb-09072b6bedfc.png" alt="PostgreSQL" width=40><br/><sub>**PostgreSQL**</sub> |
+|:-:|:-:|:-:|:-:|
 
 <br><br>
 
