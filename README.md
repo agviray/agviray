@@ -2,8 +2,8 @@
 
 # Hello! 👋
 
-- I'm Allan Viray, a curious and dedicated Full Stack Developer with useful skills to share.
-- 🌱 **I'm currently in a Software Engineering internship with Adobe.** I'm grateful to have been accepted into Adobe's 2024 summer internship program, and I'm excited to build applications using the knowlege that I will gain throughout this experience.
+- I'm Allan Viray, a curious and dedicated Full Stack Web Developer with useful skills to share.
+- 🌱 I've recently completed a Software Engineering internship with Adobe, and **I'm actively seeking my next opportunity in my tech career.**
 - 💬 Ask me about anything at all--code or non-code related! I'm an open book with most things. 😎 
 <br></br>
 
