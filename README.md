@@ -3,7 +3,7 @@
 # Hello! 👋
 
 - I'm Allan Viray, a curious and dedicated Full Stack Web Developer with useful skills to share.
-- 🌱 I've recently completed a Software Engineering internship with Adobe, and **I'm actively seeking my next opportunity in my tech career.**
+- 🌱 I completed a Software Engineering internship with Adobe (Summer 2024), and **I'm actively seeking my next opportunity in my tech career.**
 - 💬 Ask me about anything at all--code or non-code related! I'm an open book with most things. 😎 
 <br></br>
 
